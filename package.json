@@ -1,0 +1,24 @@
+{
+  "name": "Constructor-Hangman",
+  "version": "1.0.0",
+  "description": "Hangman command-line game using constructor functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brewilde13/Constructor-Hangman.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brewilde13/Constructor-Hangman/issues"
+  },
+  "homepage": "https://github.com/brewilde13/Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "prompt": "^1.0.0"
+  }
+}
